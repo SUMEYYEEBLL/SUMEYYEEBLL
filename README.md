@@ -13,7 +13,6 @@
 
 #### 📬 Connect with me:
 
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusuf-bal%C4%B1/)
 [![website](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumeyyebali817@gmail.com)
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://https://medium.com/@sumeyyebali817)
 
@@ -21,8 +20,7 @@
 </br>
 </br>
 
-<h1 align="center">🚀Technical Skills</h1>
-<h1>My Sümeyye</h1>
+<h1 align="center">🚀Technical Skills
 <div align="center">
 <img
         src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
