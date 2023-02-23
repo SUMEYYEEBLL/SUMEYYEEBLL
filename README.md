@@ -13,6 +13,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=30&pause=1000&color=D29012&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Yusuf;Welcome+to+my+page)](https://git.io/typing-svg)
+
+<font color="pink"> 🐱‍🏍 I'm Frontend Engineer, and I like to be software developer. </font>
+</br>
+<font color="pink">🎆 Exploring routes to new visions and be a part of the new visions. </font>
+</br>
+<font color="pink"> 🧐 A new technology enthusiast. </font>
+</br>
+<font color="pink">☕ Coffee is how I keep up with code</font>
+
+#### 📬 Connect with me:
+
 -->
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusuf-bal%C4%B1/)
 [![website](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baliyusuf675@gmail.com)
